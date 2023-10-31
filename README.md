@@ -2,7 +2,9 @@
 <h1 align="center">Hey!👋 I'm Sakshi Bhagat</h1>
 <h3 align="center">  A passionate Software developer from India </h3>
 
-## Socials 🌏
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=28saakshii08&label=Profile%20views&color=0e75b6&style=flat" alt="28saakshii08"/> </p>
+
+
 
 <a href="https://www.linkedin.com/in/sakshi-bhagat-644866218/">
    <img align="left" alt="Sakshi's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -10,11 +12,9 @@
 <a href="https://twitter.com/saakshiiibhagat">
   <img align="left" alt="Sakshi's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://leetcode.com/bhagatsakshi/">
-  <img align="left" alt="Sakshi's Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
 
-<img align="right" alt="Coding" width="250" src= "https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" />
+
+<img align="right" alt="Coding" width="250" src= "https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" />
 
 
 
