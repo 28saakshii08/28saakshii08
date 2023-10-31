@@ -12,8 +12,16 @@
 
 ##  Socials :link:
 
+<a href="https://www.linkedin.com/in/sakshi-bhagat-644866218/">
+  <img align="left" alt="Sakshi's Linkdein" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-
+<a href="https://twitter.com/saakshiiibhagat">
+  <img align="left" alt="Sakshi's twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://leetcode.com/bhagatsakshi/">
+  <img align="left" alt="Sakshi's leetcode" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
 
 
 
