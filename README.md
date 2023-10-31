@@ -1,5 +1,4 @@
-<img align="left" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
-<img align="center" alt="coding" width="300" src= "https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" />
+<img align="center" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" />
 <h1 align="center"> Hey!👋 I'm Sakshi Bhagat </h1>
 <h3 align="center">  A passionate Software developer from India.:woman_technologist: </h3>
 
