@@ -7,8 +7,11 @@
 <a href="https://twitter.com/saakshiiibhagat">
   <img align="left" alt="Sakshi's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://leetcode.com/bhagatsakshi/">
+  <img align="left" alt="Sakshi's Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
 
-<img align="right" alt="Coding" width="200" src= "https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" />
+<img align="right" alt="Coding" width="250" src= "https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" />
 
 
 
