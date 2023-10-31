@@ -1,6 +1,5 @@
-<img align="center" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" />
 <h1 align="center"> Hey!👋 I'm Sakshi Bhagat </h1>
-<h3 align="center">  A passionate Software developer from India.:woman_technologist: </h3>
+<h3 align="center">  A passionate Software developer :woman_technologist: </h3>
 
 <p align="left"> <img width="120" src="https://komarev.com/ghpvc/?username=28saakshii08&label=Profile%20views&color=0e75b6&style=flat" alt="28saakshii08"/> </p>
 <img align="right" alt="Coding" width="250" src= "https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" />
