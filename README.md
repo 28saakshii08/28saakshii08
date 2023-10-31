@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="600" src= "https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif" />
+<img align="center" alt="coding" width="200" src= "https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" />
 <h1 align="center"> Hey!👋 I'm Sakshi Bhagat </h1>
 <h3 align="center">  A passionate Software developer from India.:woman_technologist: </h3>
 
