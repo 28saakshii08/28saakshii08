@@ -12,16 +12,9 @@
 
 ##  Socials :link:
 
-<a href="https://www.linkedin.com/in/sakshi-bhagat-644866218/">
-   <img align="left" alt="Sakshi's Linkdein" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-</a>
-<a href="https://twitter.com/saakshiiibhagat">
-  <img align="left" alt="Sakshi's Twitter" width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-</a>
-<a href="https://leetcode.com/bhagatsakshi/">
-  <img align="left" alt="Sakshi's Leetcode" width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
+[![Twitter: rahuldcrm](https://img.shields.io/twitter/follow/rahuldcrm?style=social)](https://twitter.com/saakshiiibhagat)
+[![Linkedin: rahuldcrm](https://img.shields.io/badge/-rahuldcrm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahuldcrm/)](https://www.linkedin.com/in/sakshi-bhagat-644866218/)
+[![GitHub Noxx-7](https://img.shields.io/github/followers/Noxx-7?label=follow&style=social)](https://github.com/28saakshii08)
 
 
 
