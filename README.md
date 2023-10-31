@@ -1,7 +1,9 @@
 <img align="center" alt="coding" width="600" src= "https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif" />
 <h1 align="center">Hey!👋 I'm Sakshi Bhagat</h1>
 <h3 align="center">  A passionate Software developer from India </h3>
-### Socials: 
+
+# Socials
+
 <a href="https://www.linkedin.com/in/sakshi-bhagat-644866218/">
    <img align="left" alt="Sakshi's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
