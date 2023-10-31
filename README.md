@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" />
+<img align="center" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" />
 <h1 align="center"> Hey!👋 I'm Sakshi Bhagat </h1>
 <h3 align="center">  A passionate Software developer from India.:woman_technologist: </h3>
 
@@ -25,6 +25,7 @@
 <a href="https://https:www.instagram.com/_.saakshii.__/">
   <img align="left" alt="Sakshi's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a> 
+
 
 
 
