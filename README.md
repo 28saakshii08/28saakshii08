@@ -23,8 +23,12 @@
 <a href="https://leetcode.com/bhagatsakshi/">
   <img align="left" alt="Sakshi's leetcode" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+<a href="https://www.hackerrank.com/profile/sakshibhagat889">
+  <img align="left" alt="Sakshi's hackerank" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
 
-**Languages and Tools:** 
+
+## Languages and Tools 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
 
 
