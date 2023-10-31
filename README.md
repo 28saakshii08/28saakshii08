@@ -10,10 +10,10 @@
    <img align="left" alt="Sakshi's Linkdein" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 <a href="https://twitter.com/saakshiiibhagat">
-  <img align="left" alt="Sakshi's Twitter" width="30px"  src="https://iconduck.com/icons/21380/twitter-square" />
+  <img align="left" alt="Sakshi's Twitter" width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://https:www.instagram.com/_.saakshii.__/">
-  <img align="left" alt="Sakshi's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Sakshi's Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-alt.svg" />
 </a> 
 
 
