@@ -26,7 +26,7 @@
   <img align="left" alt="Sakshi's hackerank" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
-<h3 align="left">Languages and Tools:</h3>
+
 
 
 
