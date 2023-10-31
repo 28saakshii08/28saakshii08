@@ -23,7 +23,9 @@
   <img align="left" alt="Sakshi's Leetcode" width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-
+<a href="https://www.codingninjas.com/studio/profile/sakshibhagat28">
+  <img align="left" alt="Sakshi's CodingNinjas" width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codingninjas.svg" />
+</a>
 
 
 
