@@ -11,6 +11,8 @@
 - Ask me about HTML, CSS, Java, JavaScript, React.js, UI/UX
 - You can reach me through : [LinkedIn](https://www.linkedin.com/in/sakshi-bhagat-644866218/)
 
+<img align="right" alt="Coding" width="250" src= "https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" />
+
 ##  Socials :link:
 
 <a href="https://www.linkedin.com/in/sakshi-bhagat-644866218/">
@@ -28,7 +30,7 @@
 
 
 
-<img align="right" alt="Coding" width="250" src= "https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" />
+
 
 
 
