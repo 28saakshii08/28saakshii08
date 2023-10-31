@@ -12,9 +12,9 @@
 
 ##  Socials :link:
 
-[![Twitter: rahuldcrm](https://img.shields.io/twitter/follow/rahuldcrm?style=social)](https://twitter.com/saakshiiibhagat)
-[![Linkedin: rahuldcrm](https://img.shields.io/badge/-rahuldcrm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahuldcrm/)](https://www.linkedin.com/in/sakshi-bhagat-644866218/)
-[![GitHub Noxx-7](https://img.shields.io/github/followers/Noxx-7?label=follow&style=social)](https://github.com/28saakshii08)
+[![Twitter: rahuldcrm](https://img.shields.io/twitter/style=social)](https://twitter.com/saakshiiibhagat)
+[![Linkedin: rahuldcrm](https://img.shields.io/badge/style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahuldcrm/)](https://www.linkedin.com/in/sakshi-bhagat-644866218/)
+[![GitHub Noxx-7](https://img.shields.io/github/followers/label=follow&style=social)](https://github.com/28saakshii08)
 
 
 
