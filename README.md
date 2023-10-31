@@ -4,6 +4,13 @@
 
 <p align="left"> <img width="120" src="https://komarev.com/ghpvc/?username=28saakshii08&label=Profile%20views&color=0e75b6&style=flat" alt="28saakshii08"/> </p>
 
+### About me :raising_hand_woman:
+- I'm a Tech Enthusiast
+- I'm a Front-End Developer
+- I'm currently learning NodeJS
+- Ask me about HTML,CSS,Java,ReactJS,UI/UX
+- You can connect with me through : **sakshibhagat889@gmail.com**
+
 ##  Socials :link:
 
 <a href="https://www.linkedin.com/in/sakshi-bhagat-644866218/">
@@ -15,6 +22,8 @@
 <a href="https://https:www.instagram.com/_.saakshii.__/">
   <img align="left" alt="Sakshi's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a> 
+
+
 
 
 
