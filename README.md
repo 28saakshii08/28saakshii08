@@ -4,12 +4,12 @@
 
 <p align="left"> <img width="120" src="https://komarev.com/ghpvc/?username=28saakshii08&label=Profile%20views&color=0e75b6&style=flat" alt="28saakshii08"/> </p>
 
-### About me :raising_hand_woman:
+### About me :skull:
 - I'm a Tech Enthusiast
 - I'm a Front-End Developer
 - I'm currently learning NodeJS
 - Ask me about HTML, CSS, Java, JavaScript, React.js, UI/UX
-- You can reach me through : [GMail](sakshibhagat889@gmail.com) [LinkedIn](https://www.linkedin.com/in/sakshi-bhagat-644866218/)
+- You can reach me through : [LinkedIn](https://www.linkedin.com/in/sakshi-bhagat-644866218/)
 
 ##  Socials :link:
 
