@@ -1,6 +1,6 @@
 <img align="center" alt="coding" width="600" src= "https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif" />
-# Hey!👋 I'm Sakshi Bhagat
-<h3 align="center">  A passionate Software developer from India </h3>
+<h1 align="center"> Hey!👋 I'm Sakshi Bhagat </h1>
+<h3 align="center">  A passionate Software developer from Google (Noto Color Emoji - Unicode 15.0) </h3>
 
 <p align="left"> <img width="120" src="https://komarev.com/ghpvc/?username=28saakshii08&label=Profile%20views&color=0e75b6&style=flat" alt="28saakshii08"/> </p>
 
