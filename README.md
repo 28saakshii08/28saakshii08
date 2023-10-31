@@ -9,7 +9,7 @@
 - I'm a Tech Enthusiast & Front-End Developer
 - I'm currently learning NodeJS
 - Ask me about HTML, CSS, Java, JavaScript, React.js, UI/UX
-- You can connect with me through : [LinkedIn](https://www.linkedin.com/in/sakshi-bhagat-644866218/)
+- You can connect with me through : [LinkedIn](https://www.linkedin.com/in/sakshi-bhagat-644866218/) [Gmail](sakshibhagat889@gmail.com)
 
 ##  Socials :link:
 
