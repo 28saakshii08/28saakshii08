@@ -1,8 +1,8 @@
 <h1 align="center"> Hey!👋 I'm Sakshi Bhagat </h1>
 <h3 align="center">  A passionate Software developer :woman_technologist: </h3>
+<img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" />
 
 <p align="left"> <img width="130" src="https://komarev.com/ghpvc/?username=28saakshii08&label=Profile%20views&color=0e75b6&style=flat" alt="28saakshii08"/> </p>
-<img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" />
 
 ### About me :raising_hand_woman:
 - I'm a Tech Enthusiast & Front-End Developer
