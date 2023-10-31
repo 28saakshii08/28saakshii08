@@ -7,7 +7,7 @@
 ##  Socials :link:
 
 <a href="https://www.linkedin.com/in/sakshi-bhagat-644866218/">
-   <img align="left" alt="Sakshi's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+   <img align="left" alt="Sakshi's Linkdein" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 <a href="https://twitter.com/saakshiiibhagat">
   <img align="left" alt="Sakshi's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
