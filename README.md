@@ -4,7 +4,7 @@
 
 <p align="left"> <img width="130" src="https://komarev.com/ghpvc/?username=28saakshii08&label=Profile%20views&color=0e75b6&style=flat" alt="28saakshii08"/> </p>
 
-### About me :raising_hand_woman:
+## About me :raising_hand_woman:
 - I'm a Tech Enthusiast & Front-End Developer
 - I'm currently learning NodeJS
 - Ask me about HTML, CSS, Java, JavaScript, React.js, UI/UX
@@ -31,7 +31,7 @@
 
 <br>
 
-<h3 align="left">Languages and Tools :wavy_dash:  </h3>
+<h2 align="left">Languages and Tools :wavy_dash:  </h2>
 
 <p>
   <img width="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
@@ -40,7 +40,7 @@
   <img width="30"src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
   <img width="30" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png">
   <img width="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
-  <img width="30"src="">
+  <img width="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
     </p>
 
 
