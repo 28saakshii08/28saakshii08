@@ -41,9 +41,15 @@
   <img width="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
   <img width="30" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">
   <img width="30" src="https://user-images.githubusercontent.com/25181517/190887571-ddd87d6e-77f8-41e7-b755-9b6d68e4fab7.png">
-    </p>
+  </p>
 
+  <br>
   
+  <div align="center">
+
+  [![Github Streak]("http://github-readme-streak-stats.herokuapp.com?user=28saakshii08&theme=tokyonight")](https://git.io/streak-stats)
+
+  </div>
 
 
 
