@@ -8,7 +8,7 @@
 - I'm a Tech Enthusiast & Front-End Developer
 - I'm currently learning NodeJS
 - Ask me about HTML, CSS, Java, JavaScript, React.js, UI/UX
-- You can connect with me through : [LinkedIn](https://www.linkedin.com/in/sakshi-bhagat-644866218/) [Sakshi Bhagat](mailto:sakshibhagat889@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- You can connect with me through : [LinkedIn](https://www.linkedin.com/in/sakshi-bhagat-644866218/) [GMail](mailto:sakshibhagat889@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
 
