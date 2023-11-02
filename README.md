@@ -47,9 +47,7 @@
 
   ## GitHub Stats::part_alternation_mark:
 
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Pragnya1109&theme=highcontrast&hide_border=false"</p>
-
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=28saakshii08&show_icons=true&locale=en&layout=compact" alt="28saakshii08" /></p>
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=28saakshii08&theme=highcontrast&hide_border=false" alt="28saakshii08" /></p>
   
 
   
