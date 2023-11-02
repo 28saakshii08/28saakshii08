@@ -27,10 +27,10 @@
 </a>
 
 
-
 <br>
 
-<h2 align="left">Languages and Tools :wavy_dash:  </h2>
+
+## Languages and Tools :wavy_dash:  
 
 <p>
   <img width="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
@@ -44,8 +44,7 @@
   </p>
 
   <br>
-
-  ## GitHub Stats::part_alternation_mark:
+ ## GitHub Stats::part_alternation_mark:
 
 <p><img align="left" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=28saakshii08&theme=highcontrast&hide_border=false" alt="28saakshii08" /></p>
 <p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=28saakshii08&theme=highcontrast" alt="28saakshii08"/></p>
