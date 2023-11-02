@@ -43,6 +43,10 @@
   <img width="30" src="https://user-images.githubusercontent.com/25181517/190887571-ddd87d6e-77f8-41e7-b755-9b6d68e4fab7.png">
     </p>
 
+    <div align="center">
+
+  [Sakshi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=28saakshii08&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 
 
 
