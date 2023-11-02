@@ -45,11 +45,7 @@
 
   <br>
   
-  <div align="center">
 
-  [![Github Streak]("http://github-readme-streak-stats.herokuapp.com?user=28saakshii08&theme=tokyonight")](https://git.io/streak-stats)
-
-  </div>
 
 
 
