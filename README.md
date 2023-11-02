@@ -25,9 +25,7 @@
 <a href="https://www.hackerrank.com/profile/sakshibhagat889">
   <img align="left" alt="Sakshi's hackerank" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/sakshi_bhagat">
-  <img align="left" alt="Sakshi's geeksforgeeks" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
-</a>
+
 
 
 <br>
